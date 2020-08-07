@@ -1,0 +1,27 @@
+body{
+    background-image: url(bambang.png);
+    background-size: cover;
+}
+
+.tembok{
+    background-color: rgb(252, 252, 252);
+    background-size: 150px;
+    margin: 50px;
+    padding: 15px 20px 22px 30px;
+    width: 50%;
+    border-top-width: 30%;
+    
+}
+
+.ff{
+    color: whitesmoke;
+    font-size: 30px;
+     
+}
+
+.footer{
+    color: white;
+}
+
+
+
